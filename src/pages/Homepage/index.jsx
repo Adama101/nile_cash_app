@@ -253,6 +253,9 @@ const HomepagePage = () => {
                 </div>
               </List>
             </div>
+
+            // I will work on this, as the alignment is not very good right  now
+
             <div className="flex flex-col gap-6 items-start justify-start mb-[73px] mt-[-NaNpx] w-[604px] md:w-full z-[1]">
               <Text
                 className="sm:text-4xl md:text-[38px] text-[40px] text-black-900"
@@ -299,11 +302,15 @@ const HomepagePage = () => {
               alt="clippathgroup_One"
             />
           </div>
+
+          //Check the design and add the remaining text under the heading.
+          
           <div className="flex flex-col gap-6 h-[164px] md:h-auto items-start justify-start mr-[98px] mt-[145px] w-[604px] md:w-full">
             <Text
               className="max-w-[604px] md:max-w-full sm:text-4xl md:text-[38px] text-[40px] text-black-900"
               size="txtMPLUS1Bold40"
             >
+              
               The Perfect Credit system for your personal finances
             </Text>
             <Img className="h-6 w-6" src="images/img_frame.svg" alt="frame" />

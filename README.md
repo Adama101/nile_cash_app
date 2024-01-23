@@ -3,7 +3,7 @@
 ## Description
 
 - This is our MEST MVP project called Nile Cash App
-- Nile Cash App is a React application that allow EIT's to apply for quick instant loans
+- Nile Cash App is a React based application that allow EIT's to apply for quick instant loans
 
 ## Running in dev environment
 

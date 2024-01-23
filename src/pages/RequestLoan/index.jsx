@@ -80,6 +80,9 @@ const RequestLoanPage = () => {
                       alt="agreetotermsand"
                     />
                   </div>
+                  
+                  //Link this button to send request once form is filled.
+                  
                   <Button
                     className="!text-white-A700 cursor-pointer min-w-[327px] mt-auto mx-auto rounded-[20px] text-base text-center tracking-[0.15px]"
                     color="yellow_900"
