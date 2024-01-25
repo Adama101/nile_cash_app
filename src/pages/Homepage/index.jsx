@@ -4,7 +4,7 @@ import { Button, Img, List, Text } from "components";
 
 const HomepagePage = () => {
   return (
-    <>
+    <> 
       <div className="bg-white-A700 flex flex-col font-mplus sm:gap-10 md:gap-10 gap-[338px] justify-end mx-auto pl-2.5 pt-2.5 w-full">
         <div className="flex flex-col items-end max-w-[1430px] mt-[37px] mx-auto pl-[116px] md:px-5 w-full">
           <div className="h-[555px] md:h-[627px] relative w-full">
