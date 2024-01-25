@@ -50,6 +50,12 @@ const HomepagePage = () => {
                       >
                         Loans
                       </Text>
+                      <Text
+                        className="text-base text-black-900 w-auto"
+                        size="txtMPLUS1Medium16"
+                      >
+                        Loans History
+                      </Text>
                     </div>
                     <div className="flex flex-col items-center justify-center outline outline-[1px] outline-yellow-900 sm:px-5 px-8 py-3 rounded-[24px] w-auto">
                       <a
