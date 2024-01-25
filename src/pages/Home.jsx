@@ -87,7 +87,7 @@ const HomepagePage = () => {
                         No collateral, no hidden charges.{" "}
                       </Text>
                       <Button
-                        className="cursor-pointer flex items-center justify-center min-w-[203px]"
+                        className="cursor-pointer flex items-center justify-center min-w-[203px] rounded-md"
                         rightIcon={
                           <div className="mt-px mb-1.5 ml-4 outline-light_green-50 outline-[1px] outline">
                             <Img
@@ -96,7 +96,7 @@ const HomepagePage = () => {
                             />
                           </div>
                         }
-                        shape="circle"
+                        
                         color="yellow_900"
                         size="sm"
                         variant="fill"
@@ -279,13 +279,12 @@ const HomepagePage = () => {
                 truly unique experience that makes you feel extraordinary
               </Text>
               <Button
-                className="cursor-pointer flex items-center justify-center min-w-[187px]"
+                className="cursor-pointer flex items-center justify-center min-w-[187px] rounded-md"
                 rightIcon={
                   <div className="ml-4 outline-light_green-50 outline-[1px] outline">
                     <Img src="images/img_arrowleft.svg" alt="arrow_left" />
                   </div>
                 }
-                shape="circle"
                 color="yellow_900"
                 size="sm"
                 variant="fill"
