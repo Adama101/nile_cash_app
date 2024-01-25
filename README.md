@@ -5,12 +5,33 @@
 - This is our MEST MVP project called Nile Cash App
 - Nile Cash App is a React based application that allow EIT's to apply for quick instant loans
 
+## Notes for the HomePage
+## App Bar Componenent
+
+-This is applocation bar containing the different tabs
+- This runs from line 8 to 64
+
+## SignIn Button
+
+- This is SignIn button on the app bar
+- Link the button and this is line 59.
+
+## Loan Request Button
+
+- Link the request button to the Loan Request Form
+- This is on line 80: {" "}.
+
+## Request Money Button
+
+- This is button to clicked to send a loan request
+- The button code base runs from line 84 to 91.
+
 ## Running in dev environment
 
 1.  `cd YOUR_APPLICATION`
 2.  `npm install`
 3.  `npm start`
-
+    
 ## .env file
 
 This file contains various environment variables that you can configure.

@@ -60,6 +60,7 @@ const HomepagePage = () => {
                       </a>
                     </div>
                   </div>
+
                   <div className="flex flex-col items-start justify-start max-w-[1240px] w-full">
                     <div className="flex flex-col gap-[31px] items-start justify-start w-[604px] md:w-full">
                       <Text
